@@ -1,0 +1,491 @@
+================================================================================
+                        KIPAWA CENTRE LIBRARY
+                        BOOK CATALOGUE RECORD
+                        Total Books: 30
+================================================================================
+
+--------------------------------------------------------------------------------
+BOOK 001
+--------------------------------------------------------------------------------
+  Book ID          : LIB001
+  Title            : To Kill a Mockingbird
+  Author           : Harper Lee
+  Genre            : Fiction
+  Publisher        : J.B. Lippincott & Co.
+  Year Published   : 1960
+  ISBN             : 978-0-06-112008-4
+  Pages            : 281
+  Language         : English
+  Available Copies : 3
+  Total Copies     : 5
+  Shelf Location   : A1
+
+--------------------------------------------------------------------------------
+BOOK 002
+--------------------------------------------------------------------------------
+  Book ID          : LIB002
+  Title            : 1984
+  Author           : George Orwell
+  Genre            : Dystopian Fiction
+  Publisher        : Secker & Warburg
+  Year Published   : 1949
+  ISBN             : 978-0-45-228285-3
+  Pages            : 328
+  Language         : English
+  Available Copies : 2
+  Total Copies     : 4
+  Shelf Location   : A2
+
+--------------------------------------------------------------------------------
+BOOK 003
+--------------------------------------------------------------------------------
+  Book ID          : LIB003
+  Title            : The Great Gatsby
+  Author           : F. Scott Fitzgerald
+  Genre            : Classic Fiction
+  Publisher        : Charles Scribner's Sons
+  Year Published   : 1925
+  ISBN             : 978-0-74-326182-1
+  Pages            : 180
+  Language         : English
+  Available Copies : 4
+  Total Copies     : 4
+  Shelf Location   : A3
+
+--------------------------------------------------------------------------------
+BOOK 004
+--------------------------------------------------------------------------------
+  Book ID          : LIB004
+  Title            : A Brief History of Time
+  Author           : Stephen Hawking
+  Genre            : Science
+  Publisher        : Bantam Books
+  Year Published   : 1988
+  ISBN             : 978-0-55-305340-1
+  Pages            : 212
+  Language         : English
+  Available Copies : 2
+  Total Copies     : 3
+  Shelf Location   : B1
+
+--------------------------------------------------------------------------------
+BOOK 005
+--------------------------------------------------------------------------------
+  Book ID          : LIB005
+  Title            : Sapiens: A Brief History of Humankind
+  Author           : Yuval Noah Harari
+  Genre            : History
+  Publisher        : Harper Collins
+  Year Published   : 2011
+  ISBN             : 978-0-06-231609-7
+  Pages            : 443
+  Language         : English
+  Available Copies : 3
+  Total Copies     : 5
+  Shelf Location   : B2
+
+--------------------------------------------------------------------------------
+BOOK 006
+--------------------------------------------------------------------------------
+  Book ID          : LIB006
+  Title            : The Alchemist
+  Author           : Paulo Coelho
+  Genre            : Adventure Fiction
+  Publisher        : HarperOne
+  Year Published   : 1988
+  ISBN             : 978-0-06-112241-5
+  Pages            : 197
+  Language         : English
+  Available Copies : 5
+  Total Copies     : 6
+  Shelf Location   : A4
+
+--------------------------------------------------------------------------------
+BOOK 007
+--------------------------------------------------------------------------------
+  Book ID          : LIB007
+  Title            : Things Fall Apart
+  Author           : Chinua Achebe
+  Genre            : Literary Fiction
+  Publisher        : William Heinemann
+  Year Published   : 1958
+  ISBN             : 978-0-38-547454-2
+  Pages            : 209
+  Language         : English
+  Available Copies : 3
+  Total Copies     : 4
+  Shelf Location   : A5
+
+--------------------------------------------------------------------------------
+BOOK 008
+--------------------------------------------------------------------------------
+  Book ID          : LIB008
+  Title            : Introduction to Algorithms
+  Author           : Thomas H. Cormen
+  Genre            : Computer Science
+  Publisher        : MIT Press
+  Year Published   : 2009
+  ISBN             : 978-0-26-203384-8
+  Pages            : 1292
+  Language         : English
+  Available Copies : 1
+  Total Copies     : 2
+  Shelf Location   : C1
+
+--------------------------------------------------------------------------------
+BOOK 009
+--------------------------------------------------------------------------------
+  Book ID          : LIB009
+  Title            : The Art of War
+  Author           : Sun Tzu
+  Genre            : Philosophy
+  Publisher        : Filiquarian Publishing
+  Year Published   : 500 BC
+  ISBN             : 978-1-59-986799-9
+  Pages            : 273
+  Language         : English
+  Available Copies : 2
+  Total Copies     : 3
+  Shelf Location   : D1
+
+--------------------------------------------------------------------------------
+BOOK 010
+--------------------------------------------------------------------------------
+  Book ID          : LIB010
+  Title            : Thinking Fast and Slow
+  Author           : Daniel Kahneman
+  Genre            : Psychology
+  Publisher        : Farrar Straus and Giroux
+  Year Published   : 2011
+  ISBN             : 978-0-37-427563-1
+  Pages            : 499
+  Language         : English
+  Available Copies : 2
+  Total Copies     : 3
+  Shelf Location   : D2
+
+--------------------------------------------------------------------------------
+BOOK 011
+--------------------------------------------------------------------------------
+  Book ID          : LIB011
+  Title            : Brave New World
+  Author           : Aldous Huxley
+  Genre            : Dystopian Fiction
+  Publisher        : Chatto & Windus
+  Year Published   : 1932
+  ISBN             : 978-0-06-085052-4
+  Pages            : 311
+  Language         : English
+  Available Copies : 3
+  Total Copies     : 4
+  Shelf Location   : A6
+
+--------------------------------------------------------------------------------
+BOOK 012
+--------------------------------------------------------------------------------
+  Book ID          : LIB012
+  Title            : The Pragmatic Programmer
+  Author           : David Thomas
+  Genre            : Computer Science
+  Publisher        : Addison-Wesley
+  Year Published   : 1999
+  ISBN             : 978-0-13-595705-9
+  Pages            : 352
+  Language         : English
+  Available Copies : 1
+  Total Copies     : 2
+  Shelf Location   : C2
+
+--------------------------------------------------------------------------------
+BOOK 013
+--------------------------------------------------------------------------------
+  Book ID          : LIB013
+  Title            : Rich Dad Poor Dad
+  Author           : Robert T. Kiyosaki
+  Genre            : Personal Finance
+  Publisher        : Warner Books
+  Year Published   : 1997
+  ISBN             : 978-1-61-268404-2
+  Pages            : 336
+  Language         : English
+  Available Copies : 4
+  Total Copies     : 5
+  Shelf Location   : E1
+
+--------------------------------------------------------------------------------
+BOOK 014
+--------------------------------------------------------------------------------
+  Book ID          : LIB014
+  Title            : Atomic Habits
+  Author           : James Clear
+  Genre            : Self-Help
+  Publisher        : Avery Publishing
+  Year Published   : 2018
+  ISBN             : 978-0-73-521129-2
+  Pages            : 320
+  Language         : English
+  Available Copies : 3
+  Total Copies     : 5
+  Shelf Location   : E2
+
+--------------------------------------------------------------------------------
+BOOK 015
+--------------------------------------------------------------------------------
+  Book ID          : LIB015
+  Title            : The Hitchhiker's Guide to the Galaxy
+  Author           : Douglas Adams
+  Genre            : Science Fiction
+  Publisher        : Pan Books
+  Year Published   : 1979
+  ISBN             : 978-0-34-539180-3
+  Pages            : 224
+  Language         : English
+  Available Copies : 2
+  Total Copies     : 3
+  Shelf Location   : A7
+
+--------------------------------------------------------------------------------
+BOOK 016
+--------------------------------------------------------------------------------
+  Book ID          : LIB016
+  Title            : Pride and Prejudice
+  Author           : Jane Austen
+  Genre            : Classic Romance
+  Publisher        : T. Egerton
+  Year Published   : 1813
+  ISBN             : 978-0-14-143951-8
+  Pages            : 432
+  Language         : English
+  Available Copies : 3
+  Total Copies     : 4
+  Shelf Location   : A8
+
+--------------------------------------------------------------------------------
+BOOK 017
+--------------------------------------------------------------------------------
+  Book ID          : LIB017
+  Title            : The Lean Startup
+  Author           : Eric Ries
+  Genre            : Business
+  Publisher        : Crown Business
+  Year Published   : 2011
+  ISBN             : 978-0-30-788789-4
+  Pages            : 336
+  Language         : English
+  Available Copies : 2
+  Total Copies     : 3
+  Shelf Location   : E3
+
+--------------------------------------------------------------------------------
+BOOK 018
+--------------------------------------------------------------------------------
+  Book ID          : LIB018
+  Title            : Educated
+  Author           : Tara Westover
+  Genre            : Memoir
+  Publisher        : Random House
+  Year Published   : 2018
+  ISBN             : 978-0-39-959050-4
+  Pages            : 352
+  Language         : English
+  Available Copies : 2
+  Total Copies     : 3
+  Shelf Location   : F1
+
+--------------------------------------------------------------------------------
+BOOK 019
+--------------------------------------------------------------------------------
+  Book ID          : LIB019
+  Title            : Clean Code
+  Author           : Robert C. Martin
+  Genre            : Computer Science
+  Publisher        : Prentice Hall
+  Year Published   : 2008
+  ISBN             : 978-0-13-235088-4
+  Pages            : 464
+  Language         : English
+  Available Copies : 1
+  Total Copies     : 2
+  Shelf Location   : C3
+
+--------------------------------------------------------------------------------
+BOOK 020
+--------------------------------------------------------------------------------
+  Book ID          : LIB020
+  Title            : The Selfish Gene
+  Author           : Richard Dawkins
+  Genre            : Biology
+  Publisher        : Oxford University Press
+  Year Published   : 1976
+  ISBN             : 978-0-19-929115-1
+  Pages            : 360
+  Language         : English
+  Available Copies : 2
+  Total Copies     : 2
+  Shelf Location   : B3
+
+--------------------------------------------------------------------------------
+BOOK 021
+--------------------------------------------------------------------------------
+  Book ID          : LIB021
+  Title            : Dune
+  Author           : Frank Herbert
+  Genre            : Science Fiction
+  Publisher        : Chilton Books
+  Year Published   : 1965
+  ISBN             : 978-0-44-101359-7
+  Pages            : 688
+  Language         : English
+  Available Copies : 3
+  Total Copies     : 4
+  Shelf Location   : A9
+
+--------------------------------------------------------------------------------
+BOOK 022
+--------------------------------------------------------------------------------
+  Book ID          : LIB022
+  Title            : The Power of Now
+  Author           : Eckhart Tolle
+  Genre            : Spirituality
+  Publisher        : New World Library
+  Year Published   : 1997
+  ISBN             : 978-1-57-731480-6
+  Pages            : 236
+  Language         : English
+  Available Copies : 3
+  Total Copies     : 4
+  Shelf Location   : D3
+
+--------------------------------------------------------------------------------
+BOOK 023
+--------------------------------------------------------------------------------
+  Book ID          : LIB023
+  Title            : Zero to One
+  Author           : Peter Thiel
+  Genre            : Business
+  Publisher        : Crown Business
+  Year Published   : 2014
+  ISBN             : 978-0-80-414120-8
+  Pages            : 224
+  Language         : English
+  Available Copies : 2
+  Total Copies     : 3
+  Shelf Location   : E4
+
+--------------------------------------------------------------------------------
+BOOK 024
+--------------------------------------------------------------------------------
+  Book ID          : LIB024
+  Title            : Ikigai: The Japanese Secret to a Long Life
+  Author           : Hector Garcia
+  Genre            : Self-Help
+  Publisher        : Hutchinson
+  Year Published   : 2016
+  ISBN             : 978-0-14-313406-3
+  Pages            : 194
+  Language         : English
+  Available Copies : 4
+  Total Copies     : 5
+  Shelf Location   : E5
+
+--------------------------------------------------------------------------------
+BOOK 025
+--------------------------------------------------------------------------------
+  Book ID          : LIB025
+  Title            : The Diary of a Young Girl
+  Author           : Anne Frank
+  Genre            : Autobiography
+  Publisher        : Contact Publishing
+  Year Published   : 1947
+  ISBN             : 978-0-55-315153-2
+  Pages            : 283
+  Language         : English
+  Available Copies : 3
+  Total Copies     : 4
+  Shelf Location   : F2
+
+--------------------------------------------------------------------------------
+BOOK 026
+--------------------------------------------------------------------------------
+  Book ID          : LIB026
+  Title            : Harry Potter and the Philosopher's Stone
+  Author           : J.K. Rowling
+  Genre            : Fantasy
+  Publisher        : Bloomsbury
+  Year Published   : 1997
+  ISBN             : 978-0-74-754105-4
+  Pages            : 223
+  Language         : English
+  Available Copies : 5
+  Total Copies     : 7
+  Shelf Location   : A10
+
+--------------------------------------------------------------------------------
+BOOK 027
+--------------------------------------------------------------------------------
+  Book ID          : LIB027
+  Title            : The 7 Habits of Highly Effective People
+  Author           : Stephen R. Covey
+  Genre            : Self-Help
+  Publisher        : Free Press
+  Year Published   : 1989
+  ISBN             : 978-0-74-325409-0
+  Pages            : 381
+  Language         : English
+  Available Copies : 3
+  Total Copies     : 4
+  Shelf Location   : E6
+
+--------------------------------------------------------------------------------
+BOOK 028
+--------------------------------------------------------------------------------
+  Book ID          : LIB028
+  Title            : Meditations
+  Author           : Marcus Aurelius
+  Genre            : Philosophy
+  Publisher        : Penguin Classics
+  Year Published   : 180 AD
+  ISBN             : 978-0-14-044140-6
+  Pages            : 254
+  Language         : English
+  Available Copies : 2
+  Total Copies     : 3
+  Shelf Location   : D4
+
+--------------------------------------------------------------------------------
+BOOK 029
+--------------------------------------------------------------------------------
+  Book ID          : LIB029
+  Title            : The Origin of Species
+  Author           : Charles Darwin
+  Genre            : Biology
+  Publisher        : John Murray
+  Year Published   : 1859
+  ISBN             : 978-0-14-043205-3
+  Pages            : 432
+  Language         : English
+  Available Copies : 1
+  Total Copies     : 2
+  Shelf Location   : B4
+
+--------------------------------------------------------------------------------
+BOOK 030
+--------------------------------------------------------------------------------
+  Book ID          : LIB030
+  Title            : Deep Work
+  Author           : Cal Newport
+  Genre            : Productivity
+  Publisher        : Grand Central Publishing
+  Year Published   : 2016
+  ISBN             : 978-1-45-554386-4
+  Pages            : 304
+  Language         : English
+  Available Copies : 3
+  Total Copies     : 4
+  Shelf Location   : E7
+
+================================================================================
+                         END OF CATALOGUE
+                    Kipawa Centre Library System
+                         Total Records: 30
+================================================================================
