@@ -59,9 +59,6 @@ gcc main.c -o main
 ---
 
 ## 💻 Usage
-
-Describe how to use the project after setup. Include example commands or input/output snippets.
-
 ```bash
 # Example run
 ./main
@@ -71,32 +68,11 @@ Describe how to use the project after setup. Include example commands or input/o
 
 ---
 
-## 📁 Project Structure
-
-```
-your-repo-name/
-├── src/
-│   ├── main.c
-│   └── helpers.c
-├── include/
-│   └── helpers.h
-├── docs/
-│   └── report.pdf
-├── README.md
-└── LICENSE
-```
-
----
-
 ## 🖼 Screenshots
 
-> *(Optional but encouraged — paste a screenshot or terminal output here)*
-
-```
+> 
 <img width="1719" height="692" alt="image" src="https://github.com/user-attachments/assets/dc575818-b425-413e-9f46-858c2474fba4" />
-
 ```
-
 ---
 
 ## 🤝 Contributing
