@@ -8,7 +8,7 @@
 
 ---
 ## 📖 About
-- **This projects groups varios books in the library and basically manages them** 
+- **This projects groups various books in the library and basically manages them** 
 - **To assist in library management to save time** you built it (problem it solves)
 - **Librarians**
 ---
